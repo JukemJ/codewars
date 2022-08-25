@@ -8,4 +8,4 @@ function compareVersions (version1, version2) {
       if(version1[i] < version2[i]) return false
     }
     return true
-  }
+}
