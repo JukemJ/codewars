@@ -1,0 +1,1 @@
+for(let i = 0; i < 10; i++) if(global[`boom${i}`]) Bomb.CutTheWire(global[`boom${i}`])
